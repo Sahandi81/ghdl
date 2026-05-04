@@ -1,0 +1,7 @@
+source_branch: master
+trigger_commit: e3637671c0aaf9c1bff32780c575348a6abbc63f
+commit_message: |
+  https://downloads.mongodb.com/compass/mongosh-2.2.10-linux-x64.tgz
+  
+files:
+  - mongosh-2.2.10-linux-x64.tgz
