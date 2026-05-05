@@ -1,0 +1,7 @@
+source_branch: master
+trigger_commit: aa7a6a24aa34401307a123ab572330b5b8f9f53b
+commit_message: |
+  https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe
+  
+files:
+  - Hiddify-Windows-Setup-x64.exe
