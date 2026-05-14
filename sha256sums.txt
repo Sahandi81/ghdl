@@ -1,0 +1,2 @@
+ae0b0bcff9084a29f6680a3a13a39d79849ec3212deafc4993272ef741e63651  SlipNet-v2.5.3-full-release-arm64-v8a.apk
+a28d71c356a2e60c6ebcfd12bdc773bc8084fc9f82fbbc3a2dfd4e28086614f1  sha256sums.txt

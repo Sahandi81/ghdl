@@ -1,0 +1,6 @@
+source_branch: master
+trigger_commit: 01f6793fc566b3a75c56cfed60416de6a1d728ae
+commit_message: |
+  https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-full-release-arm64-v8a.apk
+files:
+  - SlipNet-v2.5.3-full-release-arm64-v8a.apk
